@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>{{ block "title" . }}
+    {{ .Site.Title }}
+  {{ end }}</title>
+  <meta name="description" content="{{ .Params.Site.Description }}">
+  <meta name="author" content="{{ .Params.Site.Author }}">
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/fonts.css">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <nav>
+        <div id="logo">
+          <a href="/">
+          <img src="/img/okoio.svg" />
+          </a>
+        </div>
+        <ul>
+          <li><a href="/" style="color: black; text-decoration: none;">/* oko.io */</a></li>
+          <li>
+            <a href="/blog">Blog</a>
+          </li>
+          <li>
+            <a href="/about">About</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+  <div id="content-container">
+  {{ block "main" . }}
+  base template
+  {{ end }}
+  </div>
+  <hr/>
+  <footer>&copy; 2020-&gt;present, Jacob Okamoto</footer>
+  </div>
+  <script src="js/scripts.js"></script>
+</body>
+</html>

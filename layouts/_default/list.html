@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="page-list">
+{{ range .Paginator.Pages }}
+<div class="page-list-card">
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p>{{ .Summary }}</p>
+</div>
+{{ else }}
+<h2>Nothing to see here, move along...</h2>
+{{ end }}
+</div>
+{{ end }}

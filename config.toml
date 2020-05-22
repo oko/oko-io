@@ -1,0 +1,7 @@
+baseURL = "https://oko.io/"
+languageCode = "en-us"
+title = "oko.io | Jacob Okamoto"
+
+[[params.site.sections]]
+title = "Blog"
+href = "/blog"

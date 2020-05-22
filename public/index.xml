@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oko.io | Jacob Okamoto</title>
+    <link>https://oko.io/</link>
+    <description>Recent content on oko.io | Jacob Okamoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://oko.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://oko.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oko.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Jacob!
+I grew up in Saint Louis, Missouri and graduated from the University of Minnesota, Twin Cities with a B.S. in Computer Science.
+I&amp;rsquo;ve worked at an early-stage startup in San Francisco, a bootstrapped software-as-a-service company in the Midwest, and now work for Facebook as a Production Engineer.
+I raced road bicycles from 2012 to 2019 and still ride recreationally.
+My GitHub account is @oko.</description>
+    </item>
+    
+  </channel>
+</rss>

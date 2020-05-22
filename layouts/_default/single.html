@@ -1,0 +1,11 @@
+{{ define "title" }}
+{{ .Title }} | {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+{{ if .Section }}
+<h1>{{ .FirstSection.Name }} => {{ .Title }}</h1>
+{{ else }}
+<h1>{{ .Title }}</h1>
+{{ end }}
+{{ .Content }}
+{{ end }}

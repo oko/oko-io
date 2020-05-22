@@ -1,0 +1,78 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 700;
+}
+h1 {
+  text-transform: uppercase;
+}
+body {
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 400;
+}
+
+#container {
+  width: 100%;
+  max-width: 40em;
+  margin: auto;
+}
+
+#content-container {
+  padding: 0.5em;
+}
+
+#container > header {
+  margin-top: 1em;
+}
+
+#logo img {
+  height: 2em;
+}
+
+nav #logo, nav #title {
+  float: left;
+  margin-right: 1em;
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 700;
+}
+
+nav ul {
+  list-style-type: none;
+  width: 100%;
+  padding: 0;
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 700;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0.5em;
+  padding: 0;
+}
+a {
+  color: #E74C3C;
+}
+
+#content-container > h1:first-of-type {
+  margin-top: 0;
+}
+
+.page-list {
+  padding: 0 1em;
+}
+hr {
+	border: none;
+	height: 1px;
+	color: #ccc; 
+	background-color: #ccc;
+}
+
+footer {
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 400;
+	text-align: center;
+	color: #888;
+}
+
+pre, code {
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 400;
+}
