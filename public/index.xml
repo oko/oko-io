@@ -6,9 +6,19 @@
     <description>Recent content on oko.io | Jacob Okamoto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://oko.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GraphViz in Hugo</title>
+      <link>https://oko.io/blog/graphviz/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://oko.io/blog/graphviz/</guid>
+      <description>Quick method to embed GraphViz in Markdown documents.</description>
+    </item>
     
     <item>
       <title>About</title>

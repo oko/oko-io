@@ -1,9 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <div class="page-list">
-{{ range .Paginator.Pages }}
+{{ range where .Paginator.Pages ".Params.Preview" "==" nil}}
 <div class="page-list-card">
   <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p class="titledate">{{ .Date.Format "2006-01-02" }}</h2>
   <p>{{ .Summary }}</p>
 </div>
 {{ else }}

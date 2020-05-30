@@ -76,3 +76,25 @@ pre, code {
   font-family: 'Iosevka SS07 Web', sans-serif;
   font-weight: 400;
 }
+
+pre {
+  white-space: pre-wrap;
+  padding: 1em;
+}
+
+.titledate {
+  font-family: 'Iosevka SS07 Web', sans-serif;
+  font-weight: 400;
+  color: #aaa;
+  margin: -0.5em 0;
+}
+
+div.graphviz-svg {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 1em;
+  margin: 0.5em;
+}
+pre.graphviz-pre {
+  padding: 0;
+}
