@@ -12,7 +12,7 @@ body {
 
 #container {
   width: 100%;
-  max-width: 40em;
+  max-width: 48em;
   margin: auto;
 }
 
@@ -75,6 +75,7 @@ footer {
 pre, code {
   font-family: 'Iosevka SS07 Web', sans-serif;
   font-weight: 400;
+  font-size: 1em;
 }
 
 pre {
