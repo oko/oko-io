@@ -1,5 +1,6 @@
 ---
-title: GraphViz in Hugo
+title: GraphViz in Markdown
+slug: graphviz-in-markdown
 publishDate: 2020-05-30
 summary: Quick method to embed GraphViz in Markdown documents.
 ---

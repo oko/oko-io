@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oko.io | Jacob Okamoto</title>
+    <link>https://oko.io/howto/</link>
+    <description>Recent content on oko.io | Jacob Okamoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oko.io/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GraphViz in Markdown</title>
+      <link>https://oko.io/howto/graphviz-in-markdown/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://oko.io/howto/graphviz-in-markdown/</guid>
+      <description>Quick method to embed GraphViz in Markdown documents.</description>
+    </item>
+    
+  </channel>
+</rss>

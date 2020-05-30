@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>GraphViz in Hugo</title>
-      <link>https://oko.io/blog/graphviz/</link>
+      <title>GraphViz in Markdown</title>
+      <link>https://oko.io/howto/graphviz-in-markdown/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://oko.io/blog/graphviz/</guid>
+      <guid>https://oko.io/howto/graphviz-in-markdown/</guid>
       <description>Quick method to embed GraphViz in Markdown documents.</description>
     </item>
     
