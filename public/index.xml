@@ -33,5 +33,15 @@ I raced road bicycles from 2012 to 2019 and still ride recreationally.
 My GitHub account is @oko.</description>
     </item>
     
+    <item>
+      <title>Reading</title>
+      <link>https://oko.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oko.io/reading/</guid>
+      <description>This is a loosely categorized list of good reading material.
+Technology Linux Kernel  The Definitive Guide to Linux System Calls BPF Portability and CO-RE  Organizational Management  Why Does DARPA Work?  </description>
+    </item>
+    
   </channel>
 </rss>

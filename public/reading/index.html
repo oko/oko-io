@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
 
-  <title>{{ block "title" . }}
-    {{ .Site.Title }}
-  {{ end }}</title>
-  <meta name="description" content="{{ .Params.Site.Description }}">
-  <meta name="author" content="{{ .Params.Site.Author }}">
+  <title>
+Reading | oko.io | Jacob Okamoto
+</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
 
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@400;600;700&display=swap" rel="stylesheet">
@@ -42,9 +42,23 @@
       </nav>
     </header>
   <div id="content-container">
-  {{ block "main" . }}
-  base template
-  {{ end }}
+  
+
+<h1> Reading</h1>
+
+<p>This is a loosely categorized list of good reading material.</p>
+<h2 id="technology">Technology</h2>
+<h3 id="linux-kernel">Linux Kernel</h3>
+<ul>
+<li><a href="https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/#fast-system-calls">The Definitive Guide to Linux System Calls</a></li>
+<li><a href="https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html">BPF Portability and CO-RE</a></li>
+</ul>
+<h2 id="organizational-management">Organizational Management</h2>
+<ul>
+<li><a href="https://benjaminreinhardt.com/wddw">Why Does DARPA Work?</a></li>
+</ul>
+
+
   </div>
   <hr/>
   <footer>&copy; 2020-&gt;present, Jacob Okamoto</footer>
