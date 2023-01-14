@@ -19,6 +19,10 @@ summary: Oko's audio setup.
         * [Hifiman HE5XX](https://drop.com/buy/drop-hifiman-he5xx)
         * [Sennheiser HD6XX](https://drop.com/buy/massdrop-sennheiser-hd6xx)
 
+On the amp/DAC side, the Atom stack sounds good and has enough power to do 250-ohm headphones. No reason to do anything else IMO.
+
+On the headphone side, all of the above headphones sound good. I personally like the DT 770 Pro 250-ohm for closed back (slightly more punch) and the Hifiman HE5XX for open-back (sounds...clearer?).
+
 ### Input
 
 * [Motu M2 mixer](https://motu.com/en-us/products/m-series/m2/)
@@ -26,9 +30,10 @@ summary: Oko's audio setup.
     * [Triton Audio Fethead inline pre-amp](https://www.amazon.com/TRITON-AUDIO-FetHead-Microphone-Preamp/dp/B06XDPTDN5)
     * [Amazon Basics XLR cable](https://www.amazon.com/Amazon-Basics-Standard-Microphone-Noise-Cancelling/dp/B01JNLUMMW) required to connect mic to pre-amp + mixer
 
-## Alternative setup for input
 
-The M2 + SM7B setup is ~$600. You can knock $430 off that and just buy a [Rode NT-USB](https://www.amazon.com/Rode-NT-USB-USB-Condenser-Microphone/dp/B00MMKQOEM) podcasting mic.
+### Alternative setup for input
+
+The M2 + SM7B setup is ~$600, which is...not really worth it. You can knock $430 off that and just buy a [Rode NT-USB](https://www.amazon.com/Rode-NT-USB-USB-Condenser-Microphone/dp/B00MMKQOEM) podcasting mic. Sounds nearly as good, simpler setup, and way cheaper.
 
 ## Equalization
 
