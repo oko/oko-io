@@ -6,10 +6,15 @@
     <description>Recent content on oko.io | Jacob Okamoto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://oko.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://oko.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio Setup</title>
+      <link>https://oko.io/guides/audio-setup/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://oko.io/guides/audio-setup/</guid>
+      <description>Oko&amp;rsquo;s audio setup.</description>
+    </item>
     
     <item>
       <title>GraphViz in Markdown</title>
